@@ -1,1 +1,2 @@
 # Mycode0
+main()
